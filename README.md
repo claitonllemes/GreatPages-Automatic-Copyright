@@ -13,23 +13,25 @@
 ```HTML
 
 <script>
+
         // Name: Automatic Copyright for Greatpages. 
-        // Version: 1.0.0 
+        // Version: 1.1.0 
         // Copyright: Claiton Lemes | Alisson Acioli
 
-        let prefix = "Copyright ©";
-        let suffix = "Sua Empresa - Todos os Direitos Reservados.";
+        let prefix = "© Copyright";
+        let suffix = "All rights reserved";
         let cnpj = "CNPJ: 00.000.000/0000-00";
-        let email = "e-mail - contato@suaempresa.com.br";
-        let address = "Seu endereço";
-        let desenvolvedor =
-                "- Desenvolvido por - <a href='https://www.empresadodesenvolvedor.com.br' target='_blank'> Nome do Desenvolvedor </a>"; // Backlink desenvolvedor
-        let elemento = document.querySelector(
-        "#ID_ELEMENTO"); // Inspecionar elemento > botão direito > Copy > Copy Selector
-        let ano = new Date().getFullYear();
-        let espaço = " ";
-        elemento.innerHTML = prefix + espaço + ano + espaço + suffix + espaço + cnpj + espaço + email + espaço +
-                address + espaço + desenvolvedor;
+        let address = "";
+        let developer = "<a href='LINK HERE' target='_blank'style='color: #268df3'> developer </a>"; // Backlink developer
+        let terms = "<a href='LINK HERE' target='_blank' style='color: #268df3'> Terms of Use |</a>" // Terms of Use Page Link
+        let privacy = "<a href='LINK HERE' target='_blank' style='color: #268df3'> Privacy Policy |</a>" // Privacy policy page link
+        let cookies = "<a href='LINK HERE' target='_blank' style='color: #268df3'> Cookie Policy</a>" //Cookie policy page link
+        let element = document.querySelector("#IDELEMENT"); // inspect element > right button on element > Copy > Copy Selector
+        let smash = "<br>"
+        let year = new Date().getFullYear();
+        let space = " ";
+        element.innerHTML = prefix + space + year + space + suffix + space + cnpj + space + address + space + developer + smash + terms + space + privacy + space + cookies;
+
 </script>
 
 ```
