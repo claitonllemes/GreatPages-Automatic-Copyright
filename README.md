@@ -5,7 +5,8 @@
 <a href="https://www.buymeacoffee.com/claitonllemes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=claitonllemes&button_colour=228636&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
-<a href="https://www.buymeacoffee.com/claitonllemes"><img src="https://media3.giphy.com/media/7ssLleBvWvESbx0BuG/giphy.gif"/></a>
+<a href="https://www.buymeacoffee.com/claitonllemes"><img src="https://media3.giphy.com/media/7ssLleBvWvESbx0BuG/giphy.gif" width="100%" height="100%" frameBorder="0"></a>
+
 
 <br><br>
 
