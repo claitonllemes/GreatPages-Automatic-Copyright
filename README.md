@@ -4,9 +4,11 @@
 #### Código personalizado para criação de Copyright © para plataforma GreatPages.
 
 <br>
+<a href="https://www.buymeacoffee.com/claitonllemes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=claitonllemes&button_colour=228636&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-<img src="https://user-images.githubusercontent.com/99222756/207317647-1c517d05-a17f-4f25-bbf5-33cbb236e85e.jpg"
-        width="100%" />
+<br>
+
+<img src="https://user-images.githubusercontent.com/99222756/207317647-1c517d05-a17f-4f25-bbf5-33cbb236e85e.jpg" width="100%"/>
 
 <br>
 
