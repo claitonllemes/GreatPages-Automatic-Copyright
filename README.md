@@ -12,7 +12,7 @@ O código abaixo adiciona informações de copyright ao rodapé de uma página n
 <script>
 
         // Name: Automatic Copyright for Greatpages. 
-        // Version: 1.1.0 
+        // Version: 1.1.0
         // Copyright: Claiton Lemes | Alisson Acioli
 
         let prefix = "© Copyright";
